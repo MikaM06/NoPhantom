@@ -1,0 +1,5 @@
+name: NoPhantom
+version: 1.0
+main: fr.mikam06.nophantom.Main
+description: Prevents phantoms from spawning
+api-version: 1.13
